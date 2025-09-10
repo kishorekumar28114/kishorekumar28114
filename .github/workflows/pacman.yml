@@ -2,8 +2,8 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:       # allows manual trigger
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,6 +19,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: kishorekumar28114   # 👈 your GitHub username
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
