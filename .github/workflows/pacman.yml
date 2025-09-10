@@ -2,19 +2,25 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
+    - cron: "0 0 * * *"   # runs daily at midnight
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Pacman graph
         uses: yoshi389111/github-profile-3d-contrib@0.6.1
         with:
           username: kishorekumar28114
           settings: "pacman"
+
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
