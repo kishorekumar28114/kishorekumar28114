@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h4 align="left">Hi, I’m Kishore Kumar 👋<br>An aspiring Software Development Engineer (SDE) passionate about building scalable applications, clean architectures, and impactful digital products. I enjoy solving complex problems, exploring Full-Stack Development & Cloud, and continuously learning to grow stronger as a developer.<br><br>📌 Driven by: discipline | innovation | long-term vision<br>📬 Reach me at: kishorekumar7373g@gmail.com</h4>
+<h4 align="left">Hi, I’m Kishore Kumar 👋<br>An aspiring Software Development Engineer (SDE) passionate about building scalable applications, clean architectures, and impactful digital products. I enjoy solving complex problems, exploring Full-Stack Development & AI, and continuously learning to grow stronger as a developer.<br><br>📌 Driven by: discipline | innovation | long-term vision<br>📬 Reach me at: kishorekumar.devx@gmail.com</h4>
 
 ###
 
