@@ -71,13 +71,11 @@ I'm an aspiring **Software Development Engineer** passionate about building scal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishorekumar28114&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kishorekumar28114&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar28114&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="165" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar28114&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="170" alt="Top Languages">
 
 </div>
-
----
 
 ## 🔥 GitHub Streak
 
