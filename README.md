@@ -1,111 +1,155 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1cnN3dGl3Zmw5Mm5uMjM1ZmM5Y242NHJxMDJxMmJydnhoM2ZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif"  />
+
+# 👋 Hi, I'm Kishore Kumar
+
+### Aspiring Software Development Engineer (SDE)
+
+**Building scalable applications • Exploring AI • Solving problems • Growing every day**
+
+<p>
+  <a href="mailto:kishorekumar.devx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/kishorekumar28114">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh1cnN3dGl3Zmw5Mm5uMjM1ZmM5Y242NHJxMDJxMmJydnhoM2ZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" width="500">
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 About Me
 
-<h4 align="left">Hi, I’m Kishore Kumar 👋<br>An aspiring Software Development Engineer (SDE) passionate about building scalable applications, clean architectures, and impactful digital products. I enjoy solving complex problems, exploring Full-Stack Development & AI, and continuously learning to grow stronger as a developer.<br><br>📌 Driven by: discipline | innovation | long-term vision<br>📬 Reach me at: kishorekumar.devx@gmail.com</h4>
+I'm an aspiring **Software Development Engineer** passionate about building scalable applications, clean architectures, and impactful digital products.
 
-###
+* 💻 Exploring **Full-Stack Development**
+* 🤖 Interested in **Artificial Intelligence & AI-powered applications**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🏗️ Learning to design **scalable and maintainable systems**
+* ☁️ Exploring **Cloud & AWS**
+* 📚 Continuously learning and improving
+* 🎯 Focused on becoming a strong software engineer
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorekumar28114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorekumar28114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+> **Discipline → Consistency → Growth → Impact**
 
-###
+📬 **Email:** `kishorekumar.devx@gmail.com`
 
-<br clear="both">
+---
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RrbHc2bGpkdTRkM242OTk5MzF4MzJjZm41NnpkdzZvYWRnNDZxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+## 🛠️ Tech Stack
 
-###
+### Languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
+</p>
 
-###
+### Frontend
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
+</p>
 
-###
+### Backend & Database
 
-<br clear="both">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
+</p>
+
+### Cloud & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity">
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kishorekumar28114.kishorekumar28114&left_text=Check%20Me"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishorekumar28114&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar28114&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180">
+
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kishorekumar28114/kishorekumar28114/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Code is my tool, growth is my mission, impact is my goal.</p>
-
-###
-
-<p align="left">Stay disciplined, keep building, the future rewards consistency.</p>
-
-###
-
-<p align="left">Dream big, start small, but most importantly — start.</p>
-
-###
+## 🔥 Contribution Streak
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kishorekumar28114&theme=dracula&hide_border=true" height="180">
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorekumar28114/kishorekumar28114/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorekumar28114/kishorekumar28114/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kishorekumar28114/kishorekumar28114/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3czYTB0dmNoM3NycnQ4c2ptdHlmdGpkZHY1ZTk4NHF6M3MyM2VzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif"  />
+
+<img src="https://raw.githubusercontent.com/kishorekumar28114/kishorekumar28114/output/snake.svg" alt="Snake animation">
+
 </div>
 
-###
+---
+
+## 🎯 Current Focus
+
+```text
+Full-Stack Development   ███████████████████░░   90%
+Data Structures & Algo   ████████████████░░░░░   80%
+System Design            ████████████░░░░░░░░░   60%
+Artificial Intelligence  ███████████░░░░░░░░░░   55%
+Cloud & AWS              ██████████░░░░░░░░░░░   50%
+```
+
+---
+
+## 💡 Developer Mindset
+
+> Code is my tool.
+> Growth is my mission.
+> Impact is my goal.
+
+**Stay disciplined. Keep building. Let consistency compound.**
+
+---
+
+## 📈 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kishorekumar28114&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile!
+
+**Dream big. Start small. Most importantly — start.**
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3czYTB0dmNoM3NycnQ4c2ptdHlmdGpkZHY1ZTk4NHF6M3MyM2VzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif" width="350">
+
+</div>
